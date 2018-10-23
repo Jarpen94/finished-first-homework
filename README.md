@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./android-chrome-192x192.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+    <title>Jarosław Kwiatkowski - Praca domowa</title>
+</head>
+<body>
+            <nav id="main-nav" class="main-nav">
+                <img src="./android-chrome-512x512.png" alt="logo" class="main-nav__logo">
+                <ul class="main-nav__navigation navigation">
+                    <li class="navigation__element"><a class="navigation__link" href="#hero">Home</a></li>
+                    <li class="navigation__element"><a class="navigation__link" href="#Me">About me</a></li>
+                    <li class="navigation__element"><a class="navigation__link" href="#technologies">Technologies</a></li>
+                </ul>
+            </nav>
+
+                <section id="hero" class="section-hero">
+                    <h1 class="section-hero-h1">Homework</h1>
+                    <p class="section-hero-p">For InfoShare Academy</p>
+                 </section>
+                        <h2 class="section-me-h2">About Me</h2>
+                 <section id="Me" class="section-me">
+
+                     <p class="section-me-p">Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                     Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.
+                    Brute gubergren qui ne. Malorum quaestio in cum, cu recteque tractatos constituam sea, ullum vivendo vituperata eu nec.
+                    Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                    Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.
+                   Brute gubergren qui ne. Malorum quaestio in cum, cu recteque tractatos constituam sea, ullum vivendo vituperata eu nec.
+                   Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                   Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.
+                  Brute gubergren qui ne. Malorum quaestio in cum, cu recteque tractatos constituam sea, ullum vivendo vituperata eu nec.</p>
+                    <div class="section-me-img">
+                        <img src="./Jarek3_wynik.jpg">
+
+                    </div>
+
+                 </section>
+
+
+
+
+                 <section id="technologies" class="section-technologies">
+                     <h2 class="section-technologies-h2">Technologies</h2>
+                </section>
+
+                        <div class="section-technologies__container">
+
+                            <div class="section-technologies__container-elements">
+                                <img src="./EKRAN DOTYKOWY_wynik.jpg" alt="touchscreen" width="150" height="150">
+                                <p>Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                                        Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.</p>
+                            </div>
+
+                                <div class="section-technologies__container-elements">
+                                    <img src="./INTERNET_wynik.png" alt="internt" width="150px" height="150px">
+                                    <p>Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                                            Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.</p>
+                                </div>
+
+
+                                <div class="section-technologies__container-elements">
+                                        <img src="./MOBILNOSCBANKOWA_wynik.jpg" alt="mobile-bank" width="150px" height="150px">
+                                        <p>Lorem ipsum dolor sit amet, nam et dolor vidisse alienum, eius falli his et. Augue primis persius eum ea. 
+                                                Novum deleniti usu ea, no per omnesque prodesset, ius in paulo numquam.</p>
+                                </div>
+
+
+
+                        </div>
+                 </div>
+</body>
+</html>
